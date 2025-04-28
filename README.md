@@ -10,9 +10,6 @@ Clean and responsive design
 
 Easy to understand code structure
 
-📸 Screenshots
-![Tic Tac Toe Screenshot](tic-tac-toe.png)
-
 🛠️ Technologies Used
 
 HTML5
